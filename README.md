@@ -14,10 +14,10 @@ A questo punto il database è completo, ci sono tutte le tabelle popolate con da
 
 Nella cartella Query ci sono i seguenti script pronti all'uso:
 
--  view_profilo_acn.sql (genera la vista richiesta per il profilo ACN)
--  query compliance_aziende.sql (query per la compliance)
--  dipendenze_da_terze_parti.sql (query per il tracciamento di terze parti)
--  incidenti.sql (query relativa agli incidenti informatici)
--  lista_asset_critici.sql (query per ottenere la lista degli asset)
--  lista_servizi_erogati.sql (query per ottenere la lista dei servizi)
--  punti_di_contatto.sql  (query per ottenere i punti di contatto)
+-  pw19_2_view_profilo_acn.sql (genera la vista richiesta per il profilo ACN)
+-  pw19_2_query compliance_aziende.sql (query per la compliance)
+-  pw19_2_dipendenze_da_terze_parti.sql (query per il tracciamento di terze parti)
+-  pw19_2_incidenti.sql (query relativa agli incidenti informatici)
+-  pw19_2_lista_asset_critici.sql (query per ottenere la lista degli asset)
+-  pw19_2_lista_servizi_erogati.sql (query per ottenere la lista dei servizi)
+-  pw19_2_punti_di_contatto.sql  (query per ottenere i punti di contatto)
