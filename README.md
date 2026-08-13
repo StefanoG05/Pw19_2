@@ -9,12 +9,12 @@ Istruzioni:
 5. Eseguire pw19_2_trigger_update.sql
 6. Eseguire pw19_2_trigger_delete.sql
 7. Eseguire pw19_2_dati_test_trigger.sql
+8. Eseguire pw19_2_view_profilo_acn.sql (genera la vista richiesta per il profilo ACN)
 
 A questo punto il database è completo, ci sono tutte le tabelle popolate con dati esempio.
 
 Nella cartella Query ci sono i seguenti script pronti all'uso:
 
--  pw19_2_view_profilo_acn.sql (genera la vista richiesta per il profilo ACN)
 -  pw19_2_query compliance_aziende.sql (query per la compliance)
 -  pw19_2_dipendenze_da_terze_parti.sql (query per il tracciamento di terze parti)
 -  pw19_2_incidenti.sql (query relativa agli incidenti informatici)
