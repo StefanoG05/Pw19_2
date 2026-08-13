@@ -8,8 +8,7 @@ Istruzioni:
 4. Eseguire pw19_2_trigger_insert.sql
 5. Eseguire pw19_2_trigger_update.sql
 6. Eseguire pw19_2_trigger_delete.sql
-7. Eseguire pw19_2_trigger_insert.sql
-8. Eseguire pw19_2_dati_test_trigger.sql
+7. Eseguire pw19_2_dati_test_trigger.sql
 
 A questo punto il database è completo, ci sono tutte le tabelle popolate con dati esempio.
 
