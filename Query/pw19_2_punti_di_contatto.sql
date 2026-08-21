@@ -1,6 +1,6 @@
 select
     aziende.ragione_sociale                    as azienda,
-    Concat(persone.nome, ' ', persone.cognome) as punto_contatto,
+    concat(persone.nome, ' ', persone.cognome) as punto_contatto,
     persone.email                              as email,
     persone.telefono                           as telefono,
     ruoli.titolo_ruolo                         as ruolo,
