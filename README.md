@@ -8,7 +8,7 @@ Istruzioni:
 4. Eseguire pw19_2_trigger_insert.sql
 5. Eseguire pw19_2_trigger_update.sql
 6. Eseguire pw19_2_trigger_delete.sql
-7. Eseguire pw19_2_dati_test_trigger.sql (vengono aggiunti dati di test per verificre che i trigger funzionino correttamente)
+7. Eseguire pw19_2_dati_test_trigger.sql (vengono aggiunti dati di test per verificare che i trigger funzionino correttamente)
 8. Eseguire pw19_2_view_profilo_acn.sql (genera la vista richiesta per il profilo ACN)
 
 A questo punto il database è completo, ci sono tutte le tabelle popolate con dati esempio.
