@@ -1,11 +1,10 @@
 -- ============================================================
--- TEST COMPLETO DEI TRIGGER DI AUDIT - VERSIONE CORRETTA
--- MariaDB / XAMPP
+-- DATI DI TEST DEI TRIGGER
 -- ============================================================
 -- Obiettivo:
---   - 1 INSERT per ogni tabella applicativa
---   - 1 UPDATE per ogni tabella applicativa
---   - 1 DELETE per ogni tabella applicativa
+--   - 1 INSERT per ogni tabella 
+--   - 1 UPDATE per ogni tabella 
+--   - 1 DELETE per ogni tabella 
 --   - nessuna scrittura diretta su audit_log
 --
 -- Tabelle testate: 17

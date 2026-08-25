@@ -1,10 +1,5 @@
 -- ============================================================
--- DATASET MASSIVO DI TEST - MARIA DB / NIS2
--- Dati sintetici, plausibili e coerenti tra le tabelle.
--- ATTENZIONE: lo script svuota le tabelle prima del caricamento.
--- audit_log non viene popolata direttamente: se i trigger sono attivi,
--- gli INSERT genereranno automaticamente le righe di audit.
--- Alcuni NULL sono intenzionali quando semanticamente corretti.
+-- DATASET DI TEST - caricamento iniziale prima dell'aggiunta dei trigger
 -- ============================================================
 
 SET NAMES utf8mb4;
