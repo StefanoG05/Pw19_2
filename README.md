@@ -21,3 +21,9 @@ Nella cartella Query ci sono i seguenti script pronti all'uso:
 -  pw19_2_lista_asset_critici.sql (query per ottenere la lista degli asset)
 -  pw19_2_lista_servizi_erogati.sql (query per ottenere la lista dei servizi)
 -  pw19_2_punti_di_contatto.sql  (query per ottenere i punti di contatto)
+
+Nella cartella Doc ci sono:
+
+-  il data dictionary
+-  lo schema E-R
+-  la vista esportata in formato csv 
