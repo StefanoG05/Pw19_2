@@ -26,4 +26,4 @@ Nella cartella Doc ci sono:
 
 -  il data dictionary
 -  lo schema E-R
--  la vista esportata in formato csv 
+-  una vista esportata in formato csv 
